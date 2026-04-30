@@ -63,7 +63,9 @@ typst compile main.typ
 ]
 ```
 
-See `example.typ` for a complete 13-slide deck showing the common components.
+See [`example.typ`](example.typ) for a complete 13-slide deck showing the
+common components. The compiled [`example.pdf`](example.pdf) shows the full
+preview.
 
 ## API
 
